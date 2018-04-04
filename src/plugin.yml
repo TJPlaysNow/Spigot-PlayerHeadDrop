@@ -1,0 +1,4 @@
+name: Player-Head-Drop
+version: 1.0
+main: com.tjplaysnow.playerheaddrop.main.PluginMain
+author: TJPlaysNow
